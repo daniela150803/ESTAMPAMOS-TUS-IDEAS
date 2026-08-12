@@ -1,0 +1,10 @@
+{
+  "description": "Showcase custom-printed products through an engaging catalog, enabling individuals and businesses to easily inquire via WhatsApp for personalized services.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
